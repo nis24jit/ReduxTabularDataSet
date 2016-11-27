@@ -1,0 +1,27 @@
+h1{
+    margin: 30px 0;
+    padding: 0 200px 15px 0;
+    border-bottom: 1px solid #E5E5E5;
+}
+.bs-example{
+    margin: 20px;
+}
+
+.isActiveUser{
+    background-color: rgb(240,128,128) !important;
+}
+.left-align{
+    margin-left: 8px !important;
+}
+
+.sort-Icon{
+
+
+    display: block !important;
+    margin-left: 27px !important;
+    margin-top: -9px !important;
+}
+.sort-Icon-right{
+
+  float: right  !important;
+}
