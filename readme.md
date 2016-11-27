@@ -33,3 +33,4 @@ To run the tests
 
 npm test
 
+![Alt text](https://github.com/nis24jit/ReduxTabularDataSet/blob/master/ScreenShot.png)
