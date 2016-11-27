@@ -2,6 +2,8 @@
 
 Grid operations using React+Redux+webpack
 
+cd into Application Folder and perform the below operations
+
 
 Make sure that you have the latest version of node.
 
